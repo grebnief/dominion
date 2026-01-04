@@ -1,0 +1,11 @@
+[package]
+name = "dominion"
+version = "0.1.0"
+edition = "2021"
+description = "Sovereign Identity Primitive for Autonomi"
+license = "MIT"
+
+[dependencies]
+eframe = { version = "0.28", features = ["default"] }
+sha2 = "0.10"
+ethers = “2.0"
