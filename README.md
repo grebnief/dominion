@@ -102,7 +102,7 @@ One-click Chrome/Firefox extension for seamless .p2p resolution with legacy DNS 
 - **Local DNS Proxy**  
 System-wide resolution for apps and tools.
 
-**Standalone Resolver App**  
+- **Standalone Resolver App**  
 lightweight gateway that bundles Autonomi client setup — the frictionless on-ramp to the network.
 
 ## Vision
